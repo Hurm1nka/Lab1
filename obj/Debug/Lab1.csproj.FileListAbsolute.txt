@@ -1,0 +1,15 @@
+C:\Users\Moloko\Desktop\мдк\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Moloko\Desktop\мдк\Lab1\bin\Debug\Lab1.exe
+C:\Users\Moloko\Desktop\мдк\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\MainWindow.g.cs
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\App.g.cs
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\Lab1_MarkupCompile.cache
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\Lab1_MarkupCompile.lref
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\MainWindow.baml
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\Lab1.g.resources
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\Lab1.exe
+C:\Users\Moloko\Desktop\мдк\Lab1\obj\Debug\Lab1.pdb
